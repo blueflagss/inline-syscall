@@ -109,5 +109,5 @@ Compile time string "encryption" included.
 ![](https://i.imgur.com/XQUspS2.png)
 
 ## Issues
-If you encounter any issues or crashes within this library make sure to report it to [issues](https://github.com/linux-pe/direct-syscall/issues).
+If you encounter any issues or crashes within this library make sure to report it to [issues](https://github.com/linux-pe/direct-syscall/issues).\
 NOTE: There are issues with WOW64 (x86) syscalls due to the shellcode, next time when I don't get lazy and have a usage for this maybe I will actually commit to it.
